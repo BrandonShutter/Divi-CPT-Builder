@@ -1,4 +1,8 @@
 {
     "name": "shutter/divi-cpt-builder",
-    "description": "WordPress Plugin to Allow Divi Page Builder in all CPTs"
+    "description": "WordPress Plugin to Allow Divi Page Builder in all CPTs",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0.12"
+    }
 }
