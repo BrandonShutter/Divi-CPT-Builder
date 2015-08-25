@@ -5,7 +5,7 @@ Requires at least: 3.3
 Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl.html
 
 This plugin allows you to use Divi's Page Builder on all Custom Post Types.  This includes WooCommerce's Product pages, custom post types like Divi's Projects.
 
